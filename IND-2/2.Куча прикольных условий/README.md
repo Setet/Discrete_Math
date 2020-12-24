@@ -1,0 +1,2 @@
+# IND-2_2
+Show all words of alphabet A = {a, b, c, d, e, f, g, h, j, k} of length 9,in which the letter A is repeated less than k times, the letters B and C are repeated exactly k times, the letter D is repeated more than m times, the rest of the letters are not repeated.(Вывести все слова алфавита A = {a, b, c, d, e, f, g, h, j, k} длины n,в которых буква А повторяется менее k раз, буквы B и С повторяется ровно k раз, буква D повторяется более m раз, остальные буквы не повторяются)
