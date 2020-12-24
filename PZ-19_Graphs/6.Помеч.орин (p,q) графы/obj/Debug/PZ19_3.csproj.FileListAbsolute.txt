@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\bin\Debug\PZ19_3.exe.config
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\bin\Debug\PZ19_3.exe
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\bin\Debug\PZ19_3.pdb
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.Form1.resources
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.Properties.Resources.resources
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.exe
+C:\Users\user\Desktop\PZ19\PZ19_3\PZ19_3\obj\Debug\PZ19_3.pdb

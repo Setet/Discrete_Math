@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Проги\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Проги\WindowsFormsApp2 v.1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Проги\Перестоновки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Проги\Перестоновки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Проги\Перестоновки\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Проги\Перестоновки\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

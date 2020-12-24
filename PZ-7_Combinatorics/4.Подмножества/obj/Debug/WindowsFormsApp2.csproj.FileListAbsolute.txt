@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\1)Размещение с повторением\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\1)Размещение с повторением — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\Podmnojestva-main\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\Podmnojestva-main\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\Podmnojestva-main\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\Podmnojestva-main\obj\Debug\WindowsFormsApp2.pdb
+C:\Проги\Podmnojestva-main+\bin\Debug\WindowsFormsApp2.exe.config
+C:\Проги\Podmnojestva-main+\bin\Debug\WindowsFormsApp2.exe
+C:\Проги\Podmnojestva-main+\bin\Debug\WindowsFormsApp2.pdb
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.exe
+C:\Проги\Podmnojestva-main+\obj\Debug\WindowsFormsApp2.pdb

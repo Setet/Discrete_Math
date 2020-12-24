@@ -1,0 +1,10 @@
+C:\Проги\PZ-7_7-1\PZ-7_7-1\bin\Debug\PZ-7_7-1.exe.config
+C:\Проги\PZ-7_7-1\PZ-7_7-1\bin\Debug\PZ-7_7-1.exe
+C:\Проги\PZ-7_7-1\PZ-7_7-1\bin\Debug\PZ-7_7-1.pdb
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ-7_7-1.csprojAssemblyReference.cache
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ_7_7_1.Form1.resources
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ_7_7_1.Properties.Resources.resources
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ-7_7-1.csproj.GenerateResource.cache
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ-7_7-1.csproj.CoreCompileInputs.cache
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ-7_7-1.exe
+C:\Проги\PZ-7_7-1\PZ-7_7-1\obj\Debug\PZ-7_7-1.pdb
