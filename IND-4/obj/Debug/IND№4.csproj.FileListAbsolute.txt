@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\IND№4\IND№4\bin\Debug\IND№4.exe.config
+C:\Users\user\Desktop\IND№4\IND№4\bin\Debug\IND№4.exe
+C:\Users\user\Desktop\IND№4\IND№4\bin\Debug\IND№4.pdb
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND№4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND_4.Form1.resources
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND_4.Properties.Resources.resources
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND№4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND№4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND№4.exe
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND№4.pdb
+C:\Users\user\Desktop\IND№4\IND№4\obj\Debug\IND_4.Part2.resources

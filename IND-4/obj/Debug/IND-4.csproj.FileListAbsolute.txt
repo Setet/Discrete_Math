@@ -1,0 +1,11 @@
+C:\Проги\IND№4\IND№4\bin\Debug\IND№4.exe.config
+C:\Проги\IND№4\IND№4\bin\Debug\IND№4.exe
+C:\Проги\IND№4\IND№4\bin\Debug\IND№4.pdb
+C:\Проги\IND№4\IND№4\obj\Debug\IND-4.csprojAssemblyReference.cache
+C:\Проги\IND№4\IND№4\obj\Debug\IND_4.Part2.resources
+C:\Проги\IND№4\IND№4\obj\Debug\IND_4.Properties.Resources.resources
+C:\Проги\IND№4\IND№4\obj\Debug\IND-4.csproj.GenerateResource.cache
+C:\Проги\IND№4\IND№4\obj\Debug\IND-4.csproj.CoreCompileInputs.cache
+C:\Проги\IND№4\IND№4\obj\Debug\IND№4.exe
+C:\Проги\IND№4\IND№4\obj\Debug\IND№4.pdb
+C:\Проги\IND№4\IND№4\obj\Debug\IND_4.Part1.resources
